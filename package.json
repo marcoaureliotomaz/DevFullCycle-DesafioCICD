@@ -1,0 +1,16 @@
+{
+  "name": "devfullcycle-cicd-desafio",
+  "version": "1.0.0",
+  "description": "Aplicacao simples em Node.js para o desafio de CI/CD do Dev Full Cycle.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "node",
+    "calculator",
+    "ci"
+  ],
+  "author": "",
+  "license": "MIT"
+}
